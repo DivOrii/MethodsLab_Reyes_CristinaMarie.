@@ -120,30 +120,6 @@ javac MethodsLab.java
 java MethodsLab
 ```
 
-## Repository Structure
-
-```text
-MethodsLab_Reyes_CristinaMarie/
-│
-├── MethodsLab.java
-├── README.md
-│
-└── screenshots/
-    ├── output1.png
-    ├── output2.png
-    └── output3.png
-```
-
-## Screenshots
-
-The `screenshots/` folder contains screenshots showing the successful execution of the Java program.
-
-- **Output 1:** Greeting and arithmetic operations.
-- **Output 2:** Factorial, array operations, prime number, GCD, and LCM.
-- **Output 3:** Recursive factorial, Fibonacci, and palindrome checker.
-
----
-
 **End of Methods Lab Activity**
 
 *Made with kodus.*
