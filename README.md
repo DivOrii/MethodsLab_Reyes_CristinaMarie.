@@ -9,7 +9,7 @@
 
 This project demonstrates the use of Java methods and their applications. It includes mathematical operations, number checking, array processing, and recursive methods.
 
-The program uses `Scanner` for user input and separates computations into reusable static methods.
+The program uses `Scanner` for user input and separates computations into reusable static methods. It also has an error handler too!
 
 ## Objectives
 
