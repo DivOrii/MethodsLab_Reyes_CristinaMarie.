@@ -123,7 +123,7 @@ java MethodsLab
 ## Repository Structure
 
 ```text
-MethodsLab_Reyes_Cristina/
+MethodsLab_Reyes_CristinaMarie/
 │
 ├── MethodsLab.java
 ├── README.md
