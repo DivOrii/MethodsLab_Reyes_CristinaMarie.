@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class methodlabs {
+public class methodLab {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
